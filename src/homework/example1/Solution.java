@@ -1,8 +1,8 @@
-package homework.chapter1;
+package homework.example1;
 
 /*
 Ստատիկ փոփողականները կապված են կլասի անունի հետ
-ոչ ստատիկ փոփոխականին կդիմենք կլասից օբյեկտ ստեղծելուց հետո
+ոչ ստատիկ փոփոխականին կդիմենք կլասից օբյեկտ ստեղծելուց հետո..
  */
 public class Solution {
     public static void main(String[] args) {

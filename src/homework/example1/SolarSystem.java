@@ -1,4 +1,4 @@
-package homework.chapter1;
+package homework.example1;
 
 public class SolarSystem {
     public static long age = 4_568_200_000L;
